@@ -1,0 +1,69 @@
+<section class="content cf article-bottom">
+<div class="cf contributor-bottom">
+<div class="byline">
+<span class="author"><span class="faded">By</span> Maria Guardado and Ryan Posner</span>
+/
+<span class="source">MLB.com</span>
+<span class="faded"> | </span><span class="timestamp"></span>
+<button class="comment-button">
+<div class="cplus">+</div>
+<span class="livefyre-commentcount comment-count" data-lf-article-id="250014740" data-lf-site-id="345678">0 COMMENTS</span>
+</button>
+</div>
+</div>
+<div class="blurb">
+<div class="default-styles">
+<p>ANAHEIM -- <a href="http://m.mlb.com/player/405395/albert-pujols">Albert Pujols</a> crushed his 610th career home run to become the <span class="token token-hyperLink" id="token-B6E5533F381B2C445F191"><a href="http://m.angels.mlb.com/news/article/250037522/">all-time leader</a></span> among foreign-born players as the Angels raced past the Rangers, 10-1, to even the four-game series between the American League West rivals on Tuesday night at Angel Stadium.</p>
+<p>Pujols launched a three-run homer off Texas right-hander <a href="http://m.mlb.com/player/643320/nick-gardewine">Nick Gardewine</a>, who was making his Major League debut, in the seventh inning to pass fellow Dominican Sammy Sosa and take sole possession of eighth place on the all-time list. The milestone blast capped a big night at the plate for the Angels, who remain a half-game behind the Twins for the second AL Wild Card spot.</p>
+</div>
+<div class="default-styles">
+<a class="fg-callOut cf" href="http://www.mlb.com/r/game?gid=2017_08_22_texmlb_anamlb_1">Full Game Coverage </a>
+</div>
+</div>
+<div class="full-text" style="display: block;">
+<div class="default-styles"><p>"It's pretty special," Pujols said. "To be able to accomplish something like this is very humbling."</p>
+<figure class="poster has-video "><a class="video-link" data-video-id="1759562883" data-video-link="http://m.mlb.com/video/v1759562883" href="http://m.mlb.com/video/v1759562883" title="TEX@LAA: Pujols knocks an RBI double against RF wall"><img alt="Pujols' RBI double" src="http://mediadownloads.mlb.com/mlbam/2017/08/23/images/mlbf_1759562883_th_45.jpg"/></a><div class="video-container"></div><figcaption class="meta-data video"><span class="headline">Pujols' RBI double </span><div class="stand-alone-blurb">TEX@LAA: Pujols knocks an RBI double against RF wall</div><div class="blurb">Albert Pujols smacks an RBI double against the right-field wall, allowing Mike Trout to score for an early 1-0 Angels lead in the 1st</div></figcaption></figure>
+<p>The Angels banged out a season-high 16 hits, with every starter except for <a href="http://m.mlb.com/player/592743/andrelton-simmons">Andrelton Simmons</a> collecting at least one. <a href="http://m.mlb.com/player/592230/kaleb-cowart">Kaleb Cowart</a> homered and drove in three runs, while <a href="http://m.mlb.com/player/594777/kole-calhoun">Kole Calhoun</a> finished 3-for-4 with two RBIs.</p>
+<p>"We were taking good swings," Pujols said. "It seemed like every inning we got guys on base. We've been getting great at-bats. We're getting better breaks, hitting some balls hard and now they're falling."</p>
+<figure class="poster has-video "><a class="video-link" data-video-id="1761361083" data-video-link="http://m.mlb.com/video/v1761361083" href="http://m.mlb.com/video/v1761361083" title="TEX@LAA: Cowart on his three-run homer day, win"><img alt="Cowart on his three-run homer" src="http://mediadownloads.mlb.com/mlbam/2017/08/23/images/mlbf_1761361083_th_45.jpg"/></a><div class="video-container"></div><figcaption class="meta-data video"><span class="headline">Cowart on his three-run homer </span><div class="stand-alone-blurb">TEX@LAA: Cowart on his three-run homer day, win</div><div class="blurb">Kaleb Cowart discusses his three-run homer in the bottom of the 5th inning that helped the Angels defeat the Rangers</div></figcaption></figure>
+<p>The Rangers scored their lone run of the night in the fifth via a sacrifice fly from <a href="http://m.mlb.com/player/462101/elvis-andrus">Elvis Andrus</a>.</p>
+<p>Neither club got much length from its starting pitcher, as <a href="http://m.mlb.com/player/445060/ricky-nolasco">Ricky Nolasco</a> and <a href="http://m.mlb.com/player/475115/tyson-ross">Tyson Ross</a> both labored through their outings and were unable to make it past the fifth inning. Nolasco needed 101 pitches to get through 4 2/3 innings, surrendering one run on five hits while walking three and striking out six. Ross gave up three runs on seven hits with four walks and four strikeouts over 3 2/3 innings in a 98-pitch effort.</p>
+<p>"Very challenging to find a rhythm," Rangers manager Jeff Banister said. "They were able to find some rhythm there at the plate but we were a bit challenged. We were [0-for-6] with runners in scoring position. We managed some baserunners but it's kind of been that nemesis of ours -- when offense gets tough for us we're incapable of getting a big hit."</p>
+<p>The loss dropped the Rangers three games behind the Twins for the final AL playoff spot.</p>
+<p><b>MOMENTS THAT MATTERED</b><br/>
+<b>Calhoun knocks in two:</b> Ross weaved in and out of trouble all night, and the Angels finally chased him in the fourth inning after Calhoun doubled into the gap in right-center field to bring in a pair of runs and stake the Angels a 3-0 lead.</p>
+<figure class="poster has-video "><a class="video-link" data-video-id="1760638183" data-video-link="http://m.mlb.com/video/v1760638183" href="http://m.mlb.com/video/v1760638183" title="TEX@LAA: Calhoun laces a clutch two-run double in 4th"><img alt="Calhoun's two-run double" src="http://mediadownloads.mlb.com/mlbam/2017/08/23/images/mlbf_1760638183_th_45.jpg"/></a><div class="video-container"></div><figcaption class="meta-data video"><span class="headline">Calhoun's two-run double </span><div class="stand-alone-blurb">TEX@LAA: Calhoun laces a clutch two-run double in 4th</div><div class="blurb">Kole Calhoun knocks a two-run double up the middle, scoring Kaleb Cowart and Mike Trout to make it a 3-0 game in the bottom of the 4th</div></figcaption></figure>
+<p><b>Cowart pads the lead:</b> Cowart entered Tuesday with only three hits in his last 32 at-bats, but he showed signs of breaking out of his extended slump with two hits against the Rangers. After singling in the fourth, Cowart launched a three-run homer off <a href="http://m.mlb.com/player/502212/austin-bibens-dirkx">Austin Bibens-Dirkx</a> to right field in the fifth, pushing the Angels' advantage to 6-1.</p>
+<p>"I hit some balls hard in Seattle and unfortunately they didn't fall for hits," Cowart said. "I had a couple rough games on the road, but it's the same thing. Just getting better pitches to hit, swinging at the right ones and doing damage with them when I get them."</p>
+<figure class="poster has-video "><a class="video-link" data-video-id="1760975383" data-video-link="http://m.mlb.com/video/v1760975383" href="http://m.mlb.com/video/v1760975383" title="TEX@LAA: Cowart obliterates a three-run jack to right"><img alt="Cowart's three-run homer" src="http://mediadownloads.mlb.com/mlbam/2017/08/23/images/mlbf_1760975383_th_45.jpg"/></a><div class="video-container"></div><figcaption class="meta-data video"><span class="headline">Cowart's three-run homer </span><div class="stand-alone-blurb">TEX@LAA: Cowart obliterates a three-run jack to right</div><div class="blurb">Kaleb Cowart smashes a three-run homer to right-center in the 5th, extending the Angels' lead to 6-1 on his third homer of the year</div></figcaption></figure>
+<p><b>QUOTABLE</b><br/>
+"One of the more memorable parts of the night is Nick Gardewine became a big leaguer tonight. He came in, got a bit unlucky, we were not able to make a play behind him. But I thought he threw the ball well, better than the numbers show." -- <em>Banister, on reliever Gardewine's Major League debut</em></p>
+<p><b>REVERE DEPARTS</b><br/>
+<a href="http://m.mlb.com/player/519184/ben-revere">Ben Revere</a> started in left field for the Angels, but he exited after fouling a ball off his left knee during his at-bat in the fourth inning. Revere initially remained in the game, but <a href="http://m.mlb.com/player/457727/cameron-maybin">Cameron Maybin</a> pinch-hit for him in the fifth and then replaced him in left to start the sixth. Manager Mike Scioscia said Revere sustained a knee contusion and is day to day.</p>
+<p><b>WHAT'S NEXT</b><br/>
+<b>Rangers:</b> Texas will turn to right-hander <a href="http://m.mlb.com/player/488768/andrew-cashner">Andrew Cashner</a> at 9:07 p.m. CT on Wednesday at Angel Stadium. Cashner is 4-2 with a 2.38 ERA over his last seven starts, logging quality starts in six of the outings..</p>
+<p><b>Angels:</b> The Angels will send left-hander <a href="http://m.mlb.com/player/571760/andrew-heaney">Andrew Heaney</a> to the mound on Wednesday night as they continue their four-game set with the Rangers at 7:07 p.m. PT at Angel Stadium. Heaney, in his second outing since returning from Tommy John surgery, will make his first home start since April 5, 2016.</p>
+<p>Watch every out-of-market regular-season game <span class="token token-hyperLink" id="token-C7D5A4FE0F6293A78A69D"><a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=EDITORIAL">live on MLB.TV</a></span>.</p></div>
+<p class="tagline"><b><a href="mailto:maria.guardado@mlb.com">Maria Guardado</a></b> covers the Angels for MLB.com.<br/><br/><b>Ryan Posner</b> is a contributor to MLB.com based in Los Angeles. He covered the Rangers on Tuesday.<br/><br/> This story was not subject to the approval of Major League Baseball or its clubs.</p>
+<div class="social-bar cf">
+<span class="share">Share This</span>
+<ul class="bam-social bottom">
+<li class="facebook" id="fb-share-bottom-250014740"><a href=""></a></li>
+<li class="twitter"><a href="#"></a></li> <!-- it is very important to have a href tag, twitter api is looking for it-->
+<li class="googleshare" id="gArticle-bottom-250014740"><a href="#"></a></li> <!-- Google+ Button-->
+<li class="email" id="eArticle-bottom-250014740">Email</li> <!-- Google+ Button-->
+<li class="print">Print</li>
+</ul>
+</div>
+<div class="button-wrap">
+<button class="comment-button">
+<div class="cplus">+</div>
+<span class="hide-comments">Hide Comments</span>
+<span class="livefyre-commentcount" data-lf-article-id="250014740" data-lf-site-id="345678">0 COMMENTS</span>
+</button>
+</div>
+</div>
+</section>
+
+
+
